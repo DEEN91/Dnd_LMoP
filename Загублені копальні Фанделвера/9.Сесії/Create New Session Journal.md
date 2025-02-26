@@ -134,7 +134,7 @@ config:
   source_destination_path: /
   row_templates_folder: /
   current_row_template: z_Templates/Сесія.md
-  pagination_size: 10
+  pagination_size: 100
   font_size: 16
   enable_js_formulas: false
   formula_folder_path: /
